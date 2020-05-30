@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raymond Chau</title>
+    <link>https://blater54.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Raymond Chau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blater54.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cancer Clustering</title>
+      <link>https://blater54.github.io/portfolio/post/cancer_clustering/</link>
+      <pubDate>Wed, 13 May 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://blater54.github.io/portfolio/post/cancer_clustering/</guid>
+      <description>Breast Cancer is a very common cancer among women. Statistic shows that about 1 in 8 U.S. women will develop invasive breast cancer and around 42,000 deaths occur in 2020. The data set was obtained from UCI Machine learning Dataset. It is composed of over 80,000 data. The objective of this project is to cluster data into two sets using KMeans Algorithm to determine if the machine can group them into readmitted or not readmitted.</description>
+    </item>
+    
+    <item>
+      <title>Hospital Readmission Classification</title>
+      <link>https://blater54.github.io/portfolio/post/hospital-readmission/</link>
+      <pubDate>Tue, 12 May 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://blater54.github.io/portfolio/post/hospital-readmission/</guid>
+      <description>Hospital Readmission is a big issue within the industry. As someone who wants to become a Data Scientist in Health, I wanted to contribute to its cause. Hospital readmission cost Medicare around $26 billion annually and became really big that it also created the &amp;lsquo;Hospital Readmissions Reduction Program&amp;rsquo;. The data obtained was from medicare.gov and it features 19,344 data. The objective of this project is to predict how readmission rate are and see if we can decrease it.</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Readmission Classification</title>
+      <link>https://blater54.github.io/portfolio/post/diabetes_readmission_classification/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://blater54.github.io/portfolio/post/diabetes_readmission_classification/</guid>
+      <description>The average age of people having diabetes is 45 years old. Diabetes is also a major cause of blindness, kidney failure, heart attack, and stroke. In 2016, diabetes have killed around 1.6 million people. On this project, I want to see classify if medication provided by doctors will reduce patients going back to the hospital. The data has over 80,000 entries and the models performed are Decision Tree and Random Forest.</description>
+    </item>
+    
+    <item>
+      <title>Hospital Payment Prediction</title>
+      <link>https://blater54.github.io/portfolio/post/hospital_payment/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://blater54.github.io/portfolio/post/hospital_payment/</guid>
+      <description>United States has one of the highest cost for staying in a hospital. The average hospital stay costs around $15,000 per day and hospital cost around $4,000 per day, which is the highest compared to other countries. It is generally expensive because drug prices are increasing, hospitals are profit centers, doctors practice Defensive Medicine and earn more compared to other countries. For this project:
+ Wanted to predict hospital prices to see if prices would increase in the future I used Log transformation on this model to improve the data set as it had a log curve.</description>
+    </item>
+    
+    <item>
+      <title>Fertility Rate</title>
+      <link>https://blater54.github.io/portfolio/post/fertility-rate/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://blater54.github.io/portfolio/post/fertility-rate/</guid>
+      <description>Infertility Rate is at an all time low in the United States. About 10% of women between the ages of 15-44 are having difficulty getting pregnant. It is also stated that roughly 40-50% is due to &amp;lsquo;male factor&amp;rsquo;. This can be a combination of low sperm concentration, poor sperm motility, or abnormal morphology. This project will be a supervised Classification and will classify whether an individual is infertile or fertile.</description>
+    </item>
+    
+  </channel>
+</rss>
